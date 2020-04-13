@@ -1,0 +1,61 @@
+<2020-04-09 Thu> (remember period needs no shift, thats < )
+* Keplers 3 Laws of Planetary Motion (NSSI vid)
+** all planets orbit in an ellipse, to make one you need 2 foci (pl. for focus) 
+** when 2 foci on top of eachother you have a perfect circle
+** 2nd law is all orbrits sweep out equal areas at equal time
+** mechanical energy is potential + kinectic 
+** periapsis close to body being orbited 
+** 3rd law, semi-major axis proportional to the planets period
+** Newton proved this later? Kepler was early early 1600s
+* Gravity (NSSI vid)
+** gravity is a field force not contact force... 
+** satellites are falling in space, not flying!
+** 8 km/s is the minimum speed
+** zero gravity is a misnomer
+* Electromagnetic Spectrum basics (NSSI vid)
+** it is light, and describes the total light/energy/radiation
+** light is made of electric fields and magnetic fields
+** distance of wavelength and the rate these waves pass are called frequency
+** smaller wavelength means larger frequency
+** they are inversely proportional! 
+** differences between frequency makes up the spectrum...
+** radio waves have the largest waves (shortest frequency up to 300MHz)
+** visible light is the part of the spectrum our eyes are most sensitive to
+** wouldn't it be cool to have a super hero power with eyes covering more spectrum?
+** gamma waves are 10 picometers or the size of atoms, and include hotest parts of universe (suns)
+** gamme waves used to detect other elements on distant planets
+** 3 ways materials interact with waves: obsorb, reflect, or pass through
+** this is the way mass interacts with energy
+** some areas of the spectrum obsorb (or partially) the wave
+** others pass through, he calls this the transmission window
+** all objects above 0 degree kelvin emits energy
+** when em radiation strikes an obj energy is either transmitted (goes through)
+** bounces off, or addes energy to the obj (obsorb)
+| subregion   | example                | space application          
+|-------------+------------------------+----------------------------|
+| radiowave   | small city  | satcomm                    
+| microwave   | baseball               | radar, satcomm             
+| infrared    | period                 | meteorology, astronomy     
+| visible     | cell                   | remote sensing, astornomgy 
+| ultraviolet | virus                  | astronomgy              
+| x-ray       | dna                    | solar weather, nudet       
+| gamma       | atoms                  | astronomgy, nudet       
+* Space mission operations
+** pnt is positioning, navigation and timing
+** a pnt system includes everyone who uses this data like google maps, banking, etc
+** the user segment is the reason we do the mission 
+** ground segment sends commands to the bus portion of the sat
+** conops is a verbal or visual description of a system
+** for example space segment and ground segment
+** is it safe to say, our launch vehicle provider is ULA? 
+** c3 tracking telemetry & commanding
+**  tracking knowing where it is and where its going
+** ground survelliance network essential in tracking
+** tearr data - azimuth, epoch time, elevation, range, range rate (has fast range is changing)
+** determing dopler shift?
+** telemetry is nothing more but satellite bus and payload data
+** for ex. voltage, temp, mission data
+** tearr data comes from the TLE data set
+** nodes are ground stations, sats, and control centers (buildings)
+** cross link used if the sat needed is not in view
+**  

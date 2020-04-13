@@ -1,0 +1,64 @@
+<2020-04-09 Thu>
+Timestamps must be used in org mode only huh? No problem
+CPASC Weekly meeting
+* PPA problem gone! 
+Very important entry right here in the sense that I'm recalling a 5month long problem and the steps taken to solve it.
+** For months I had an "Error BrokenCount >0" on the right hand side of my Ubuntu box.
+I knew to click on properties > Other Software, but as I looked at those packages I didn't realize the Ubuntu eLisp was the propblem.
+You can also get to that screen with the cmd gksu software-properties-gtk
+After clicking to remove eLisp, I then typed
+#+begin_src
+ sudo apt-get update && sudo apt-get install -f && sudo apt-get update
+#+end_src
+Then restarted the computer and the error message was gone! 
+Then my virtual box started working again, for some reason after updated vbox to 6.1 it stopped working b/c of this unmet dependencies prob.
+The catastrophe I was faced with today, though small, was a great reminder about backups. I had *just* created a Lubuntu vm
+Then I could not access/turn it on b/c of this silly uid error, which in the end, didn't relate at all to the solution I found with the ppa fix.
+Something in the back of my mind was nagging at me to fix ppa first, and not worry about the newly created vbox issue that mysteriously came about right after updating! 
+<2020-04-10 Fri>
+** twitter take aways
+*** Jerry Jeudy good WR from Alabama but wears #4?
+*** Utah CB says he's the smartest CB in the draft Jaylon Johnson
+*** Stephon Gilmore while at South Carolina qb'ed a pass to Alshon Jeffrey(who looked so fat and slow)
+*** made an awful joke about Demarcus Robinsons horrible hair (Drob from the Gators) was he #11 back then?
+** podcast points
+*** Lowe talking to David Thorpe from truehoops,  
+*** Very few americans have been tested 0.01% 
+***  
+3056, 3032, 3125
+erik stulb not happy with comments at the bottom of bugzilla
+john hensley seems to support? 
+mike wants 3125 pushed through
+3056 less intrusive, dump 3032 for this next release 2020-60
+the one involving lbe needs Dan to go into the office to test, "real testing"
+<2020-04-11 Sat>
+* Productive Saturday morning! 
+well, i hope so! I did follow one step in my less-coffee resolution: drank 8 cups of tea
+** podcast points
+*** TWiV is really into testing! Amazing that Singapore has a unique solution to dengue Mosquitos:  
+Wolbachia carrying Aedes aegypti mosquitos
+*** Aedes is a genus
+*** epidemiology is the study of how disease spreads! Why does Cuba do so well in Medicine?
+*** So basically this male mosquito has a bacteria (Wolbachia) that ma kes the eggs a female hatches never hatch
+*** other mosquito types (genus and species?) are crazy but I'll type them here: anopheles coluzzii, culex quinquefasciatus
+*** From Dale Carnegie's book How to Stop worrying: prideful trees that don't bend under the snow eventually break
+*** bend not break phrase is always in sports! He also told the story of thoughts manifesting feelings
+*** For ex. if you think about being weak, you feel week. About being stressed, you are stressed.
+*** my solution is find quotes that create feelings for ex. Ralph Emerson on success, then ask myself have I done these? Yes!
+*** I should create a meditation resource to focus on to control my thoughts to be what I want them to be, maybe use quotes?
+*** Prisoners in Sing-Sing seem just as happy as anyone in the outside world
+*** 
+I expounded at length yesterday about Monetary theory to malina as she completed her classwork on this subject. 
+Money should be viewed as points in a video game. Like Dale Carnegie said "getting licked" is just part of the game. Loss will happen.
+But I, and I want my children to do this, actively seek to gain as many points as possible!
+ I like what Adam Corrola said about some people, that when money is invisibile to them they can't sympathize with normal people like 
+those suffering economically during the covid crisis. 
+* to laugh often and love much; to win the respect of intelligent people & the affection of children; to earn the approbation of honest critics and endure the betrayal of false friends; to appreciate beauty.
+<2020-04-12 Sun>
+* Easter, can't focus and sore
+apr 13
+<2020-04-13 Mon>
+auto save doesn't seem to be working here :( I really need the backups going! 
+testing now
+   
+
