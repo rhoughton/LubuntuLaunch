@@ -1,6 +1,5 @@
 <2020-04-09 Thu>
 Timestamps must be used in org mode only huh? No problem
-CPASC Weekly meeting
 * PPA problem gone! 
 Very important entry right here in the sense that I'm recalling a 5month long problem and the steps taken to solve it.
 ** For months I had an "Error BrokenCount >0" on the right hand side of my Ubuntu box.
@@ -22,16 +21,7 @@ Something in the back of my mind was nagging at me to fix ppa first, and not wor
 *** Stephon Gilmore while at South Carolina qb'ed a pass to Alshon Jeffrey(who looked so fat and slow)
 *** made an awful joke about Demarcus Robinsons horrible hair (Drob from the Gators) was he #11 back then?
 ** podcast points
-*** Lowe talking to David Thorpe from truehoops,  
 *** Very few americans have been tested 0.01% 
-***  
-3056, 3032, 3125
-erik stulb not happy with comments at the bottom of bugzilla
-john hensley seems to support? 
-mike wants 3125 pushed through
-3056 less intrusive, dump 3032 for this next release 2020-60
-the one involving lbe needs Dan to go into the office to test, "real testing"
-<2020-04-11 Sat>
 * Productive Saturday morning! 
 well, i hope so! I did follow one step in my less-coffee resolution: drank 8 cups of tea
 ** podcast points
@@ -47,18 +37,23 @@ Wolbachia carrying Aedes aegypti mosquitos
 *** my solution is find quotes that create feelings for ex. Ralph Emerson on success, then ask myself have I done these? Yes!
 *** I should create a meditation resource to focus on to control my thoughts to be what I want them to be, maybe use quotes?
 *** Prisoners in Sing-Sing seem just as happy as anyone in the outside world
-*** 
-I expounded at length yesterday about Monetary theory to malina as she completed her classwork on this subject. 
-Money should be viewed as points in a video game. Like Dale Carnegie said "getting licked" is just part of the game. Loss will happen.
-But I, and I want my children to do this, actively seek to gain as many points as possible!
- I like what Adam Corrola said about some people, that when money is invisibile to them they can't sympathize with normal people like 
-those suffering economically during the covid crisis. 
 * to laugh often and love much; to win the respect of intelligent people & the affection of children; to earn the approbation of honest critics and endure the betrayal of false friends; to appreciate beauty.
-<2020-04-12 Sun>
-* Easter, can't focus and sore
-apr 13
 <2020-04-13 Mon>
-auto save doesn't seem to be working here :( I really need the backups going! 
-testing now
-   
+* Heavy Econ Morning, then work work work 
+** The Falcon and the Snowman
+*** TODO watch Aldrich Ames 1998 movie, also about spying also starring Tim Hutton!
+*** main char paroled in 1998, sean penn then hired him as a personal assistant??!?!
+*** instead of RTX the company in real life was TRW
+**** this company created a few interesting spacecrafts including Pioneer 1 (failure) and 10 (successful to Jupiter)
+**** acquired by NOC in 2002 but it sounds like the pieced out parts of TRW to become Pacific Semiconductors, Aerospace, etc
+**** interesting, TRW veterans were instrumental in founding SpaceX
+*** the part of the movie about Whitlam lead me down an interesting rabbit hole 
+**** according to wikipedia: Kerr replace Whitelam as Australia's prime minister after support/money from CIA
+**** the main char claims he read a CIA correspondence saying "our man Kerr" but even Whitlam sad Kerr didn't need cia help
+**** Also Whitlam said Jimmy Carter sent an ambassador specially to Sydney to reassure that US won't be involved in Aussie democracy
+**** 
+** Fed research morning
+*** really like investopedia's structure with "key takeways" and "bottom line"
+*** weapon of mass protection lol
+*** key features to enforce a certain monetary policy: omo, qe,  
 
