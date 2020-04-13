@@ -1,0 +1,29 @@
+* Process for pushing
+#+begin_src 
+git add . 
+git commit -m "whatever msg"
+git push
+#+end_src
+* Set cli up so no need to log on to github each time
+*** known as credential caching
+#+begin_src 
+git config credential.helper store
+git push https://github.com/ownerNameHere/repo.git
+#+end_src
+*** set caching expire, 7200 is 2 hours
+#+begin_src 
+git config --global credential.helper 'cache --timeout 7200'
+#+end_src
+* To check on all those configs
+#+begin_src 
+git config --list
+#+end_src
+*** or my favorite
+#+begin_src 
+cat .gitconfig
+#+end_src
+* After all this, I'm getting great @ Spacemacs code shortcut
+#+begin_export ascii
+c-c c-, s
+#+end_export
+
