@@ -1,6 +1,17 @@
-* Bernanke lecture @ GW on youtube
-** says a "tool" for central banks to use is monetary policy, incorrect word, it's a toolbox!
-** I do agree though, the second one on his list is a tool: lender of last resort
-** the third tool is 'financial regulation' but this is not unique to central banks, many govt agencies also regulate
-** concept of a central bank goes back to Sweden 1668, England in 1694 and France (1800) wow late Fr?
-** 
+Mostly notes from youtube videos on finance/federal reserve
+* Bernanke lecture @ GW on youtube pt 1
+**** says a "tool" for central banks to use is monetary policy, incorrect word, it's a toolbox!
+**** I do agree though, the second one on his list is a tool: lender of last resort
+**** the third tool is 'financial regulation' but this is not unique to central banks, many govt agencies also regulate
+**** concept of a central bank goes back to Sweden 1668, England in 1694 and France (1800) wow late Fr?
+* Causes of Inflation by Marginal Revolution Univ
+**** m = money supply, v = velocity of money, y = real gdp , p= price
+**** velocity of $ is # of times a dollar changes hands in a year
+**** Inflation can be seen using the Consumer Price Index (avg cost of goods/services)
+* 2017 Fink Con Neel Kashkari
+**** NK started as an Aerospace eng @ TRW
+**** interesting, there are "black out" dates when fed employees can't talk monetary policy
+**** NK thinks banks need more capital as a buffer so failure doesn't happen again
+**** "they move as a pack" 
+**** 
+

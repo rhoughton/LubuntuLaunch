@@ -1,0 +1,9 @@
+* Org 
+**** timestamp
+c-c . 
+**** code block
+c-c c-, s
+**** save
+spc f s or capital S for all buffers
+
+  
