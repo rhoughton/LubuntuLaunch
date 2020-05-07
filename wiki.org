@@ -14,9 +14,29 @@ Sharing my part of the learning process to help others*
 ** What is a flag officer?
 *** a generic term used by Navy to denote a general officer
 * TDRS 
-** 
-** 
-** 
-** 
-** 
-** 
+** What type of data rate can you get in S-band? 
+*** 6 Mbs
+** Who uses the Ku and Ka bands? (also S-band?)
+*** US military
+** What is the STADAN?
+*** Spacecraft Tracking and Data Acquisition Network
+** What are the names of the other 2 networks built right after STADAN?
+*** manned space flight network (msfn) and deep space network (dsn)
+** What is the name of the new network merged from STADAN & MSFN? 
+*** STDN spacecraft tracking and data network
+** Who is building TDRS K?
+*** Boeing
+** Where is the White Sands Complex?
+*** southern New Mexico, near Las Cruces
+** Where is the Goddard Space Flight Center?
+*** Greenbelt, Maryland
+** What size is the space ground link terminals?
+*** 19 meter (dishes)
+** What does ZOE stand for?
+*** zone of exclusion
+** What programs utilized TDRSS?
+*** Hubble space telescope, LANDSAT, and ISS voice communications...
+** Where are some of the NRO ground stations?
+*** Colorado, DC, NM, and Fort Belvoir Virginia
+** What 32 cultural references are made to TDRS?
+*** James Bond Moonraker, and Event Horizon 
