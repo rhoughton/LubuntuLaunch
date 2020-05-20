@@ -1,0 +1,16 @@
+Very broad term here "tech" so expect programming, OS, hardware, etc to pop up
+* Lecture on COM
+** What does this binary component's acronym stand for? 
+*** component object model 
+** COM's are similar to what concept?
+*** widgets! ...or classes on steroids
+** Who created CORBA?
+*** OMG - object model group...
+** 
+** 
+**  
+** 
+** 
+** 
+** 
+** 
