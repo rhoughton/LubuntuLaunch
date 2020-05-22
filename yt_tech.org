@@ -6,9 +6,34 @@ Very broad term here "tech" so expect programming, OS, hardware, etc to pop up
 *** widgets! ...or classes on steroids
 ** Who created CORBA?
 *** OMG - object model group...
-** 
-** 
+** IDL? 
+*** interface description language
+** What does the design pattern "proxy" or "stub" do? 
+***  lets the program in Java talk to it to relay that to the skeleton or another proxy?
+*** good analogy: german speaker can talk to a german/english speaker to speak to a japanese/english speaker who in turn can relay that to a pure japanese speaker.
+** What does ORB stand for?
+*** object request broker
+** What's IIOP?
+*** internet-inter-orb-protocol
+** RMI?
+*** remote method invocation (b/c of competing standards....)
+*** enterprise Java beans (ejb) go beyond this to encapsulate additional functionality
+** What are transactions?
+*** a sequence of transactions with certain properties that are true, (4 properties)
+** Love the ending: "This is what gives software designers nightmares at night"
+*** getting this thing up and stable; proxy working, orb working, network working, servers orb and proxy working
+* Chili - 3d directX graphics COM
+** At its most basic level, what is DirectX?
+*** a number of COM objects
+** What does a DirectX function call do?
+*** 'indirectly' creates a COM object by passing the addr of an interface pointer to the function
+**** binary compatability?
+**** C++ is designed to reuse software components via source code, not binary objects.
+** What does it mean for a program to be "compiled as a DLL?"
+*** ?
 **  
+** 
+** 
 ** 
 ** 
 ** 
