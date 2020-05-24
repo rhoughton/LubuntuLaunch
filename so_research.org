@@ -1,14 +1,50 @@
 * Essential COM by Don Box (free on google books)
 ** What's the 1st chapters title? *LOL
 *** COM as a better cpp
-** 
-** 
-** 
-** 
-** 
-** 
-** 
-** 
+** What was the first c++ dev product from Bell Laboratories? 
+*** CFRONT
+** What is UDTs and what are they good for?
+*** user defined types, could be reused outside original context
+** What is the coupling effect?
+*** where the application is "coupled" closely to the class library.
+*** fragile code base over time
+*** reduses "modularity" of a class library & difficult to adapt to changes
+** Why is the cpp object model not great for building resusable components?
+*** because of 'runtime obstacles' like compilation and linkage
+* Why aren't libraries enough? *Binary Components :)  
+** How long, or what is, the algorithmic complexity of a string search?
+*** O(1)
+** What did user expect to add to get a working application?
+*** the sources FILES (include a make file?) to recompile locally...
+** What would need to be bundled as part of the overall application?
+*** the executable code of the library
+* Dynamic Linking
+** What happens when a programmer uses __declspec(d11export) ?
+*** the linker connects the executable to the DLL to load the needed code
+*** 'stubs' are created in the exe to inform the loader
+*** methods are added to the export list of the DLL
+*** runtime resolution of each method
+*** linker produces an import library that exposes symbols of the needed method
+*** what does it mean to resolve symbols to locations in memory?
+** How large are DLL files? Examples plz, most common is great.
+*** ?
+** Who creates DLL files? COM files?
+*** 
+* Encapsulation ez good
+** Where is the length calculation stored?
+*** in the constructor, to allocate the buffer
+** Describe a source code control system?
+*** ...
+** Does cpp support encapsulation?
+*** syntactic encap yes, using private and protected keywords
+** What is binary encapsulation? Does modern cpp now support it?
+*** ?
+** What is rude?
+*** writing a pointer to a string at a location belonging to someone else
+** What's the problem with DLLs?
+*** versioning can lead to problems(exceptions), and ultimately to OS bulk 
+* Interface vs Implementation
+**  
 ** 
 ** 
 ** 

@@ -31,7 +31,19 @@ Very broad term here "tech" so expect programming, OS, hardware, etc to pop up
 **** C++ is designed to reuse software components via source code, not binary objects.
 ** What does it mean for a program to be "compiled as a DLL?"
 *** ?
-**  
+** What must the language support, in order to work with COM?
+*** function pointers
+** What does every COM object have? 
+*** an ID, you pass that to a Factory that looks it up in a Central Registry to create
+** What's returned by the factory?
+*** a handle or interface to the created COM object
+** Explain how COM supports polymorphism?
+*** b/c COM uses interfaces, as long as those stay the same the backend code can change and all is good
+** How does COM support distributed systems?
+*** you create COM objects on remote servers and execute from the client
+** Is depth good to have in your inheritance tree?
+*** generally, no
+** 
 ** 
 ** 
 ** 
