@@ -1,0 +1,45 @@
+* Technical Documents Reading
+** Using Oracle Data Guard
+*** What is this procedure applicable to?
+**** Only bare metala nd VM DB systems (to use Exadata go somewhere else)
+*** How do you access the db host?
+**** use the DGMGRL utility, this is a must to configure Data Guard
+*** What is a compartment in Oracle DB infrastructure language? 
+**** a collection of related resources you can control access to
+*** What's the difference bettween bare metal and vm dbs when using ODG?
+**** For VMs a standby is created and associated w/ primary, but bare metal must already have one
+*** What is "shape" a reference to here?
+**** VMs, so if the standby is a VM, primary must be as well.
+*** What 2 types of Enterprise editions can you name?
+**** 'extreme performance' and 'high performance'
+*** How does BYOL work?
+**** ?
+*** What happens if your standby is in a different 'region' than your primary?
+**** You must 'peer' VCNs for each database pairs...
+*** What must the ingress/egress rules accept?
+**** TCP traffic between the applicable ports (what about udp?)
+*** Do we have to use port 1521?
+**** ?
+*** Where should the standby db be?
+**** a different availability domain
+*** What is an availability domain?
+**** A place in an oracle data center that hosts instances, volumes, and/or subnets
+*** Whati s a region?
+**** a place that contains one or more availability domains. So like city & neighborhoods
+*** Primary and standby should be where?
+**** in 2 different avail. domains to improve availability and disaster recovery
+*** What is a fault domain? 
+**** a smaller subsection of an avail. domain, so like houses?
+*** How many fault domains are in an avail. domain?
+**** 3
+*** How is the standby db maintained?
+**** w/ data guard sending redo data from the primary
+*** What happens in a fail over?
+**** The standby "switches" or becomes the primary.
+*** How is "maintenance" performed?
+**** by simply switching "standby" with "primary"
+*** What's dangerous about using "Maximum Perforamance" protection mode?
+**** data could be lost in a failover
+*** What does the reinstate command do?
+**** allow you to reinstate a db after you've investigated why it failed
+*** 
