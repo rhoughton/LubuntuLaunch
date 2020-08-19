@@ -1,0 +1,18 @@
+* Who know's where this will go...
+** Info World Dec 1998
+*** IBM server had what type of specs?
+**** 450 MHz & 384 MB SDRAM
+*** What product is Sybase pushing here?
+**** SQL Anywhere for mobile and embedded database
+*** What was Microsoft planning for with a 64bit OS?
+**** make Windows bit-independent for a 128 bit OS!
+*** What does DLT stand for?
+**** digital linear tape
+*** What's APC stand for?
+**** american power conversion
+** 
+*** 
+*** 
+*** 
+*** 
+*** 

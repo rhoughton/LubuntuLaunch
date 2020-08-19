@@ -1,5 +1,5 @@
 * Technical Documents Reading
-** Using Oracle Data Guard
+** Using- Oracle Data Guard
 *** What is this procedure applicable to?
 **** Only bare metala nd VM DB systems (to use Exadata go somewhere else)
 *** How do you access the db host?

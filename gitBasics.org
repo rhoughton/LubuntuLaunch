@@ -22,5 +22,5 @@ git config --global credential.helper 'cache --timeout 7200'
 #+begin_src 
 cat .gitconfig
 #+end_src
-****** as a little journal entry here: today I tried to push a new file to an old repository. Forgot I had made changes, so had to read git push --help note about fast-forward 
+****** as a little journal entry here: today I tried to push a new file to an old repository. Forgot I had made changes, so was prompted of the error and to read git push --help, sepcifcally the fast-forward details. That did not help at all but I did just git pull, saw changes were made so figured my next git push would work and it did. I'm not quite sure why, but the cool thing is the pull did not influence the new file I had, so it just pulled in the files and changes to those files and didn't delete anything locally. Yay, I was afraid that might not be the case. 
 
